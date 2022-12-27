@@ -1,8 +1,13 @@
+<div align="center">
 
 
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:614385,100:516395&height=170&width=100&&section=header&text=Sung%20hyun&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Thank%20you%20for%20your%20visiting&descAlignY=45&&descSize=15)
+
+
 
 <h3> 💻 Tech Stack</h3>
+  
+  <br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,6 +27,8 @@
 
 <h3> 🛠 IDEA & TOOL</h3>
   
+   <br>
+  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -31,7 +38,10 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
-## 💗 GitHub stats
+  <h3>💗 GitHub stats</h3>
+  
+   <br>
+  
 ![sunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun9hyun&theme=omni&show_icons=true)
   
 </div>
