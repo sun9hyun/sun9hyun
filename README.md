@@ -4,8 +4,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:614385,100:516395&height=170&width=100&&section=header&text=Sung%20hyun&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Thank%20you%20for%20your%20visiting&descAlignY=45&&descSize=15)
 
 
+  
+  
 
-<h3> 💻 Tech Stack</h3>
+<h3> 💻 Tech Stack </h3>
   
   <br>
 
@@ -38,7 +40,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
-  <h3>💗 GitHub stats</h3>
+  <h3>💗 GitHub Stats</h3>
   
    <br>
   
