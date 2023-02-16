@@ -39,12 +39,14 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-  <h3>💗 GitHub Stats</h3>
+  <h3> 😊 GitHub Stats </h3>
   
    <br>
   
 ![sunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun9hyun&theme=omni&show_icons=true)
   
-  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsun9hyun&count_bg=%238B65AE&title_bg=%23B3B0B4&icon=&icon_color=%23CFC7C7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
   
 </div>
